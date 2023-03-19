@@ -70,13 +70,6 @@ function hello(){
         }
        
     }
-    if(ch=='>')
-    {
-      function c(String )
-      {
-        b.innerHTML.slice(2,-1);
-      }
-    }
     else if(ch.length===1){
       b.innerHTML+=ch;
       n2=n2*10+parseInt(ch);
